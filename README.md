@@ -1,6 +1,3 @@
-<img width="1366" height="799" alt="3-主界面" src="https://github.com/user-attachments/assets/e8476849-7535-47b7-88cd-4958b43c77c7" />
-
-
 TestLumen
 
 一款基于大语言模型的智能测试分析工具，支持需求分析、测试点生成、测试用例生成等核心场景。
@@ -34,6 +31,9 @@ TestLumen
 - ✅ **多模态能力**：模型支持TestLumen工具就支持
 - ✅ **模板可定制**：导出字段可自由勾选
 - ✅ **支持试用**：提供 30 天免费试用
+
+<img width="1366" height="799" alt="3-主界面" src="https://github.com/user-attachments/assets/e8476849-7535-47b7-88cd-4958b43c77c7" />
+
 
 
 ## 2. 安装与启动
