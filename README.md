@@ -1,4 +1,6 @@
-<img width="1365" height="799" alt="1-激活" src="https://github.com/user-attachments/assets/8463c284-a076-41fe-9848-c038091efe97" /># TestLumen
+<img width="1366" height="799" alt="3-主界面" src="https://github.com/user-attachments/assets/e8476849-7535-47b7-88cd-4958b43c77c7" />
+
+
 TestLumen
 
 一款基于大语言模型的智能测试分析工具，支持需求分析、测试点生成、测试用例生成等核心场景。
@@ -53,6 +55,8 @@ TestLumen
 ## 3. 软件激活
 
 ### 3.1 激活界面说明
+<img width="1365" height="799" alt="1-激活" src="https://github.com/user-attachments/assets/ee11d34b-1b5e-4e2f-9be9-71d10859654e" />
+<img width="520" height="346" alt="2-激活成功" src="https://github.com/user-attachments/assets/52b74d31-b9c2-4aa5-b117-37c59bee03a0" />
 
 首次启动 TestLumen 时，系统会自动弹出 **"软件激活"** 对话框，要求输入激活码。
 
@@ -88,6 +92,7 @@ TestLumen
 TestLumen 支持接入各种 OpenAI 兼容协议的大模型服务。
 
 #### 进入模型配置
+<img width="921" height="441" alt="4-模型配置" src="https://github.com/user-attachments/assets/d7102e25-3584-4c00-b988-e86eece67f1e" />
 
 主界面 → 中间栏 **"模型"** 模块 → 点击 **"选择"** 按钮 → 弹出"选择模型"对话框。
 
@@ -197,6 +202,7 @@ TestLumen 内置多种 AI 角色，可根据测试场景选择
 ## 6. 五步使用流程
 
 完成前面的所有配置后，就可以正式开始使用了。TestLumen 的核心使用流程可归纳为 **5 个步骤**：
+<img width="1364" height="797" alt="5-使用操作步骤1-5" src="https://github.com/user-attachments/assets/089982ea-0aab-44da-9f4e-8d642da9e5ef" />
 
 ### 步骤总览
 
@@ -224,6 +230,7 @@ TestLumen 内置多种 AI 角色，可根据测试场景选择
 ```
 
 ### 7.1 各菜单功能说明
+<img width="1363" height="798" alt="6-知识库配置及导出文件配置" src="https://github.com/user-attachments/assets/5190f020-7938-4a9c-8a3d-5a58d4adc0fc" />
 
 | 菜单项 | 功能 |
 |--------|------|
